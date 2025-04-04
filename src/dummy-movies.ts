@@ -1,0 +1,58 @@
+export const DUMMY_MOVIES = [
+  {
+    poster: 'https://m.media-amazon.com/images/M/MV5BMTQ1OTU0ODcxMV5BMl5BanBnXkFtZTcwOTMxNTUwOA@@._V1_SX300.jpg',
+    imdbID: 'tt1637725',
+    title: 'Ted',
+    year: '2012',
+    type: 'movie',
+  },
+  {
+    poster: 'https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_SX300.jpg',
+    imdbID: 'tt10986410',
+    title: 'Ted Lasso',
+    year: '2020',
+    type: 'series-',
+  },
+  {
+    poster: 'https://m.media-amazon.com/images/M/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_SX300.jpg',
+    imdbID: 'tt2637276',
+    title: 'Ted 2',
+    year: '2015',
+    type: 'movie',
+  },
+  {
+    poster: 'https://m.media-amazon.com/images/M/MV5BZTU5NWRkNmEtZmY4Yi00ZTIzLWIxNjUtMzM3ODM2ZTdiOWNhXkEyXkFqcGc@._V1_SX300.jpg',
+    imdbID: 'tt1086064',
+    title: 'Bill & Ted Face the Music',
+    year: '2020',
+    type: 'movie',
+  },
+  {
+    poster: 'https://m.media-amazon.com/images/M/MV5BN2NmMzNkZDAtYzEyMy00NzY2LTlhMmMtNzc2M2M5ZTk2MmY2XkEyXkFqcGc@._V1_SX300.jpg',
+    imdbID: 'tt0111958',
+    title: 'Father Ted',
+    year: '1995–1998',
+    type: 'series',
+  },
+  {
+    poster: 'https://m.media-amazon.com/images/M/MV5BM2NiOGY1NzAtYTk4Ny00MjBjLTgwMzQtYmE0NTZmNDBjYTMzXkEyXkFqcGc@._V1_SX300.jpg',
+    imdbID: 'tt14824792',
+    title: 'Ted',
+    year: '2024',
+    type: 'series',
+  },
+  {
+    poster: 'https://m.media-amazon.com/images/M/MV5BMTI3NDgzMTU2Nl5BMl5BanBnXkFtZTcwOTUzMzA1Mg@@._V1_SX300.jpg',
+    imdbID: 'tt1235547',
+    title: 'Better Off Ted',
+    year: '2009–2010',
+    type: 'series',
+  },
+  {
+    poster: 'https://m.media-amazon.com/images/M/MV5BNDE3MDdmMTAtNWRhOC00NzI0LThhOTQtZjQxN2RjOTQ3ZjQ1XkEyXkFqcGc@._V1_SX300.jpg',
+    imdbID: 'tt0064100',
+    title: 'Bob & Carol & Ted & Alice',
+    year: '1969',
+    type: 'movie',
+  },
+];
