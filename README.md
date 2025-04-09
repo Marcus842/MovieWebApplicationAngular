@@ -1,6 +1,18 @@
 # MovieWebApplicationAngular
 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
+
+## Prerequisites
+
+At least Angular version 18.0.4
+
+A folder named `environments` needs in `src` folder with a file name `environment.ts` inside.
+The file should have the following content:<br>
+&nbsp;&nbsp;export const environment = {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;omdbApiKey: '[YourApiKey]'<br>
+&nbsp;&nbsp;};<br><br>
+The Api Key can be retrieved from https://www.omdbapi.com/apikey.aspx 
 
 ## Development server
 
