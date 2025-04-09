@@ -1,12 +1,188 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projects\\MovieWebApplicationAngular\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|c:\\projects\\moviewebapplicationangular\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|c:\\projects\\moviewebapplicationangular\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|solutionrelative:src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|c:\\projects\\moviewebapplicationangular\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|solutionrelative:src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|c:\\projects\\moviewebapplicationangular\\src\\app\\movies\\movie-card\\movie-card.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|solutionrelative:src\\app\\movies\\movie-card\\movie-card.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|c:\\projects\\moviewebapplicationangular\\src\\app\\movies\\movie\\movie.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|solutionrelative:src\\app\\movies\\movie\\movie.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|c:\\projects\\moviewebapplicationangular\\src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|solutionrelative:src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|c:\\projects\\moviewebapplicationangular\\src\\services\\movies.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|solutionrelative:src\\services\\movies.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|c:\\projects\\moviewebapplicationangular\\src\\services\\response.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|solutionrelative:src\\services\\response.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|c:\\projects\\moviewebapplicationangular\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|solutionrelative:src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|c:\\projects\\moviewebapplicationangular\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7DDE4B2-0D3F-4B80-7381-0C1752776828}|MovieWebApplicationAngular.esproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "movie-card.component.html",
+              "DocumentMoniker": "C:\\Projects\\MovieWebApplicationAngular\\src\\app\\movies\\movie-card\\movie-card.component.html",
+              "RelativeDocumentMoniker": "src\\app\\movies\\movie-card\\movie-card.component.html",
+              "ToolTip": "C:\\Projects\\MovieWebApplicationAngular\\src\\app\\movies\\movie-card\\movie-card.component.html",
+              "RelativeToolTip": "src\\app\\movies\\movie-card\\movie-card.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-08T09:34:49.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "movie.model.ts",
+              "DocumentMoniker": "C:\\Projects\\MovieWebApplicationAngular\\src\\app\\movies\\movie\\movie.model.ts",
+              "RelativeDocumentMoniker": "src\\app\\movies\\movie\\movie.model.ts",
+              "ToolTip": "C:\\Projects\\MovieWebApplicationAngular\\src\\app\\movies\\movie\\movie.model.ts",
+              "RelativeToolTip": "src\\app\\movies\\movie\\movie.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA8wAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-08T09:34:09.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Projects\\MovieWebApplicationAngular\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Projects\\MovieWebApplicationAngular\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-08T08:41:42.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Projects\\MovieWebApplicationAngular\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.module.ts",
+              "ToolTip": "C:\\Projects\\MovieWebApplicationAngular\\src\\app\\app.module.ts",
+              "RelativeToolTip": "src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-08T08:39:02.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "response.model.ts",
+              "DocumentMoniker": "C:\\Projects\\MovieWebApplicationAngular\\src\\services\\response.model.ts",
+              "RelativeDocumentMoniker": "src\\services\\response.model.ts",
+              "ToolTip": "C:\\Projects\\MovieWebApplicationAngular\\src\\services\\response.model.ts",
+              "RelativeToolTip": "src\\services\\response.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-07T13:14:50.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Projects\\MovieWebApplicationAngular\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "src\\app\\app.component.html",
+              "ToolTip": "C:\\Projects\\MovieWebApplicationAngular\\src\\app\\app.component.html",
+              "RelativeToolTip": "src\\app\\app.component.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-07T07:49:00.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Projects\\MovieWebApplicationAngular\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.component.ts",
+              "ToolTip": "C:\\Projects\\MovieWebApplicationAngular\\src\\app\\app.component.ts",
+              "RelativeToolTip": "src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-07T08:01:34.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "movies.service.ts",
+              "DocumentMoniker": "C:\\Projects\\MovieWebApplicationAngular\\src\\services\\movies.service.ts",
+              "RelativeDocumentMoniker": "src\\services\\movies.service.ts",
+              "ToolTip": "C:\\Projects\\MovieWebApplicationAngular\\src\\services\\movies.service.ts",
+              "RelativeToolTip": "src\\services\\movies.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-07T08:14:58.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Projects\\MovieWebApplicationAngular\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Projects\\MovieWebApplicationAngular\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-07T11:49:20.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "environment.ts",
+              "DocumentMoniker": "C:\\Projects\\MovieWebApplicationAngular\\src\\environments\\environment.ts",
+              "RelativeDocumentMoniker": "src\\environments\\environment.ts",
+              "ToolTip": "C:\\Projects\\MovieWebApplicationAngular\\src\\environments\\environment.ts",
+              "RelativeToolTip": "src\\environments\\environment.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-07T12:28:03.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

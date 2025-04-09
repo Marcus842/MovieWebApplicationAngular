@@ -8,8 +8,6 @@
     <BuildOutputFolder>$(MSBuildProjectDirectory)\dist\MovieWebApplicationAngular\browser\</BuildOutputFolder>
   </PropertyGroup>
   <ItemGroup>
-    <None Remove="src\app\app-routing.module.ts" />
     <None Remove="src\app\app.component.spec.ts" />
-    <None Remove="src\app\app.module.ts" />
   </ItemGroup>
 </Project>

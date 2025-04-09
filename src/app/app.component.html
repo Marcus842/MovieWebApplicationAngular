@@ -1,18 +1,32 @@
-<app-header/>
+<app-header />
 
 <main>
   <form (ngSubmit)="onSubmit()">
     <p>
       <label for="title">Title</label>
-      <input type="text" id="title" name="title" [(ngModel)]="enteredTitle"/>
+      <input type="text" id="title" name="title" [(ngModel)]="enteredTitle" />
     </p>
     <button type="submit">Search</button>
+    <div className='paginations-div-class'>
+      @if(pageIndex > 1)
+      {
+        <button type="button" (click)="onPreviousPage()">Previous</button>
+      }
+      @if(pageIndex < totalNumberOfPages)
+      {
+      <button type="button" (click)="onNextPage()">Next</button>
+      }
+    </div>
+    @if(totalNumberOSearchResults)
+    {
+      <p><b>Number of search results: </b>{{totalNumberOSearchResults}}</p>
+    }
   </form>
   <ul id="movies">
     @for (movie of movies; track movie.imdbID){
-    <li>
-      <app-movie-card [movie]="movie"/>
-    </li>
+      <li>
+        <app-movie-card [movie]="movie" />
+      </li>
     }
   </ul>
 </main>
