@@ -1,0 +1,12 @@
+.movieCard {
+  max-width: 300px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image-spec-ul {
+  list-style: none;
+  text-align: left;
+  padding-left: 0px;
+}
