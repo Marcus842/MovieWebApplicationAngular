@@ -8,6 +8,8 @@
         <input type="text" id="title" name="title" [(ngModel)]="enteredTitle" />
       </p>
       <button type="submit">Search</button>
+      @if(totalNumberOSearchResults)
+      {
       <div className='paginations-div-class'>
         @if(pageIndex > 1)
         {
@@ -18,12 +20,15 @@
         <button type="button" (click)="onNextPage()">Next</button>
         }
       </div>
+      }
     </form>
     @if(totalNumberOSearchResults)
     {
     <p><b>Number of search results: </b>{{totalNumberOSearchResults}}</p>
     }
   </div>
+  @if(movies)
+  {
   <ul id="movies" class="movieList">
     @for (movie of movies; track movie.imdbID){
     <li>
@@ -31,4 +36,5 @@
     </li>
     }
   </ul>
+  }
 </main>
