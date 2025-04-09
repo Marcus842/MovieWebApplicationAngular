@@ -1,4 +1,4 @@
-import { Movie } from "../app/movies/movie/movie.model";
+import { Movie } from "./movie.model";
 
 export interface ResponseOmdb {
   Search: Movie[];

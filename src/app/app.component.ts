@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { MovieCardComponent } from '../app/movies/movie-card/movie-card.component';
 import { HeaderComponent } from '../app/header/header.component';
 import { MoviesService } from '../services/movies.service';
-import { Movie } from './movies/movie/movie.model';
+import { Movie } from '../models/movie.model';
 
 @Component({
   selector: 'app-root',
