@@ -1,7 +1,7 @@
 <app-header />
 
 <main>
-  <div class="searchBox">
+  <div class="search-box">
     <form (ngSubmit)="onSubmit()">
       <p>
         <input type="text" id="title" name="title" placeholder="Enter search title" [(ngModel)]="enteredTitle" />
@@ -28,9 +28,9 @@
   </div>
   @if(movies)
   {
-  <ul id="movies" class="movieList">
+  <ul id="movies" class="movie-list">
     @for (movie of movies; track movie.imdbID){
-    <li>
+    <li class="movie-item">
       <app-movie-card [movie]="movie" />
     </li>
     }

@@ -1,4 +1,4 @@
-.searchBox {
+.search-box {
   position: fixed;
   top: 114px;
   background-color: white;
@@ -6,11 +6,19 @@
   text-align: center;
 }
 
-.movieList {
+.movie-list {
   margin-top: 300px;
   text-align: center;
   list-style-type: none;
+  margin-right: auto;
+  margin-left: auto;
   padding: 0px;
+  max-width: 1000px;
+}
+
+.movie-item {
+  float: left;
+  margin: 10px;
 }
 
 label {
