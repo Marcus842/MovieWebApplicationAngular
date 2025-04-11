@@ -44,6 +44,10 @@ export class AppComponent {
       this.movies = res.Search;
       this.totalNumberOSearchResults = res.totalResults;
       this.totalNumberOfPages = Math.ceil(parseInt(res.totalResults) / 10);
+
+      if (res.Response == 'False') {
+        console.log(res.Error);
+      }
     });
   }
 }

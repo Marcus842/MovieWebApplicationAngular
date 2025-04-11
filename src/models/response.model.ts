@@ -4,4 +4,5 @@ export interface ResponseOmdb {
   Search: Movie[];
   totalResults: string;
   Response: string;
+  Error: string;
 }
