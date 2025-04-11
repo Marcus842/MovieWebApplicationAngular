@@ -1,7 +1,10 @@
 
 <div class="movie-card">
+  @if(movie.Poster && movie.Poster !== 'N/A')
+  {
   <img [src]="movie.Poster"
        [alt]="movie.Title" />
+  }
   <ul class="image-spec-ul">
     <li><b>Title: </b>{{movie.Title}}</li>
     <li><b>Year: </b>{{movie.Year}}</li>

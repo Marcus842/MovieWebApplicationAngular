@@ -7,18 +7,19 @@
 }
 
 .movie-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: 990px;
+  align-items: center;
+  font-size: 30px;
   margin-top: 300px;
-  text-align: center;
-  list-style-type: none;
-  margin-right: auto;
   margin-left: auto;
-  padding: 0px;
-  max-width: 1000px;
+  margin-right: auto;
 }
 
 .movie-item {
-  float: left;
-  margin: 10px;
+  margin: 10px 10px auto 10px;
 }
 
 label {

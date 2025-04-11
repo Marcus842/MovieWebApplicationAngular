@@ -28,12 +28,13 @@
   </div>
   @if(movies)
   {
-  <ul id="movies" class="movie-list">
-    @for (movie of movies; track movie.imdbID){
-    <li class="movie-item">
+  <div class="movie-list">
+    @for (movie of movies; track movie.imdbID)
+    {
+    <div class="movie-item">
       <app-movie-card [movie]="movie" />
-    </li>
+    </div>
     }
-  </ul>
+  </div>
   }
 </main>
